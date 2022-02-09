@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which of the following is not an operating system?",
+    "optionA": "Windows",
+    "optionB": "Linux",
+    "optionC": "Oracle",
+    "optionD": "DOS",
+    "answer": "Oracle"
+  },
+  {
+    "question": "When was the first operating system developed?",
+    "optionA": "1948",
+    "optionB": "1949",
+    "optionC": "1950",
+    "optionD": "1951",
+    "answer": "1950"
+  },
+  {
+    "question": " Which of the following is the extension of Notepad?",
+    "optionA": ".txt",
+    "optionB": ".xls",
+    "optionC": ".ppt",
+    "optionD": ".bmp",
+    "answer": ".txt"
+  },
+  {
+    "question": "What else is a command interpreter called?",
+    "optionA": "prompt",
+    "optionB": "kernel",
+    "optionC": "shell",
+    "optionD": "command",
+    "answer": "shell"
+  },
+  {
+    "question": "What is the full name of FAT?",
+    "optionA": "File attribute table",
+    "optionB": "File allocation table",
+    "optionC": "Font attribute table",
+    "optionD": "Format allocation table",
+    "answer": "File allocation table"
+  },
+  {
+    "question": "What is the mean of the Booting in the operating system?",
+    "optionA": "Restarting computer",
+    "optionB": "Install the program",
+    "optionC": "To scan",
+    "optionD": "To turn off",
+    "answer": "Restarting computer"
+  },
+  {
+    "question": "Banker's algorithm is used?",
+    "optionA": "To prevent deadlock",
+    "optionB": "To deadlock recovery",
+    "optionC": "To solve the deadlock",
+    "optionD": "None of these",
+    "answer": "To prevent deadlock"
+  },
+  {
+    "question": "When you delete a file in your computer, where does it go?",
+    "optionA": "Recycle bin",
+    "optionB": "Hard disk",
+    "optionC": "Taskbar",
+    "optionD": "None of these",
+    "answer": "Recycle bin"
+  },
+  {
+    "question": "Which is the Linux operating system?",
+    "optionA": "Private operating system",
+    "optionB": "Windows operating system",
+    "optionC": "Open-source operating system",
+    "optionD": "None of these",
+    "answer": "Open-source operating system"
+  },
+  {
+    "question": "What is the full name of the DSM?",
+    "optionA": "Direct system module",
+    "optionB": "Direct system memory",
+    "optionC": "Demoralized system memory",
+    "optionD": "Distributed shared memory",
+    "answer": "Distributed shared memory"
+  },
+  {
+    "question": "What is the full name of the IDL?",
+    "optionA": "Interface definition language",
+    "optionB": "Interface direct language",
+    "optionC": "Interface data library",
+    "optionD": "None of these",
+    "answer": "Interface definition language"
+  },
+  {
+    "question": "What is bootstrapping called?",
+    "optionA": "Cold hot boot",
+    "optionB": "Cold boot",
+    "optionC": "Cold hot strap",
+    "optionD": "Hot boot",
+    "answer": "Cold boot"
+  },
+  {
+    "question": "What is the fence register used for?",
+    "optionA": "To disk protection",
+    "optionB": "To CPU protection",
+    "optionC": "To memory protection",
+    "optionD": "None of these",
+    "answer": "To memory protection"
+  },
+  {
+    "question": "Which of the following is a single-user operating system?",
+    "optionA": "Windows",
+    "optionB": "MAC",
+    "optionC": "Ms-Dos",
+    "optionD": "None of these",
+    "answer": "Ms-Dos"
+  },
+  {
+    "question": "Which of the following is not application software?",
+    "optionA": "Windows 7",
+    "optionB": "WordPad",
+    "optionC": "Photoshop",
+    "optionD": "MS-excel",
+    "answer": "Windows 7"
+  }
+]
